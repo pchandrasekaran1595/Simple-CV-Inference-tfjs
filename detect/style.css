@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: goldenrod;
+    margin-top: 50px;
+}
+
+#image_input{
+    background-color: lightgray;
+    color: black;
+    margin: auto;
+    margin-top: 50px;
+}
+
+canvas{
+    background-color: lightgray;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.btn{
+    font-family: monospace;
+    font-size: 14px;
+    height: 40px;
+}
+
+#reset{
+    background-color: orange;
+    border: 2px solid orange
+}
+
+#output{
+    height: 40px;
+}
+
+.Loading{
+    margin: auto;
+    margin-top: 25%;
+}
+
+table{
+    margin: auto;
+    margin-top: 25px;
+}
+
+#home_form{
+    padding: auto;
+    padding-left: 15px;
+}
+
+#home{
+    background-color: green;
+    border: 2px solid green;
+}

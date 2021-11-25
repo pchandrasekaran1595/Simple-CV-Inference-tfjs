@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: goldenrod;
+    margin-top: 50px;
+}
+
+#index_page_form{
+    margin: auto;
+    margin-top: 50px;
+}
